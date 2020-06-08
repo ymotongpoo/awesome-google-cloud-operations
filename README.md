@@ -3,7 +3,7 @@ A collection of libraries, plugins, examples, documents et al for Google Cloud O
 
 ## Google Cloud Logging
 
-### Documents/Blogs
+### Documents
 
 * [Cloud Logging documentation -- Google Cloud](https://cloud.google.com/logging/docs?hl=en)
 
@@ -22,6 +22,15 @@ A collection of libraries, plugins, examples, documents et al for Google Cloud O
 #### Agents
 
 * [GoogleCloudPlatform/google-fluentd](https://github.com/GoogleCloudPlatform/google-fluentd)
+
+
+### Blogs
+
+* [How to find--and use--your GKE logs with Cloud Logging](https://cloud.google.com/blog/products/management-tools/finding-your-gke-logs)
+* [Tools for debugging apps on Google Kubernetes Engine](https://cloud.google.com/blog/products/containers-kubernetes/tools-for-debugging-apps-on-google-kubernetes-engine)
+* [Using logging for your apps running on Kubernetes Engine](https://cloud.google.com/blog/products/management-tools/using-logging-your-apps-running-kubernetes-engine)
+
+
 
 ## Google Cloud Monitoring
 
@@ -74,7 +83,7 @@ A collection of libraries, plugins, examples, documents et al for Google Cloud O
 
 ## Google Cloud Trace
 
-### Documents/Blogs
+### Documents
 
 * [Cloud Trace documentation -- Google Cloud](https://cloud.google.com/trace/docs/?hl=en)
 
@@ -114,6 +123,10 @@ A collection of libraries, plugins, examples, documents et al for Google Cloud O
       * [npm - @opencensus/nodejs](https://www.npmjs.com/package/@opencensus/nodejs)
     * [OpenCensus Node.js exporter](https://github.com/census-instrumentation/opencensus-node/tree/master/packages/opencensus-exporter-stackdriver)
       * [npm - @opencensus/exporter-stackdriver](https://www.npmjs.com/package/@opencensus/exporter-stackdriver)
+
+### Blogs
+
+* [Viewing Stackdriver Trace spans and request logs in multi-project deployments](https://cloud.google.com/blog/products/gcp/viewing-trace-spans-and-request-logs-in-multi-project-deployments)
 
 
 ## Google Cloud Profiler
